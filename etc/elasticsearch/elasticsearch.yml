@@ -1,4 +1,4 @@
-# 2024-07-28 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-28 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # "Improve Elasticsearch settings": https://github.com/27estore/192.241.193.5/issues/25
 path.data: /var/lib/elasticsearch
 path.logs: /var/log/elasticsearch

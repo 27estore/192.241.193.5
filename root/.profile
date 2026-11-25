@@ -1,4 +1,4 @@
-# 2024-07-12 Dmitrii Fediuk https://www.upwork.com/fl/mage2pro
+# 2024-07-12 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # "Improve `/root/.profile`": https://github.com/27estore/192.241.193.5/issues/6
 export PS1='\[\e[01;33m\]\w\n\[\e[01;31m\]\$ \[\e[00m\]'
 umask 022

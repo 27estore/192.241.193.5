@@ -14,7 +14,7 @@
 PATH=/sbin:/usr/sbin:/bin:/usr/bin
 DESC="PHP 8.2 FastCGI Process Manager"
 NAME=php-fpm8.2
-# 2024-07-19 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-19 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # 1) "Improve PHP settings for Magento": https://github.com/27estore/192.241.193.5/issues/7
 # 2) "Refactor PHP settings": https://github.com/27estore/192.241.193.5/issues/19
 CONFFILE=/etc/php/8.2/fpm.ini

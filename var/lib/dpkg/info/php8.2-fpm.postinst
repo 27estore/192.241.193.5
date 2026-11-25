@@ -35,7 +35,7 @@ if [ "$1" = "configure" ]; then
     else
 	ucf /usr/lib/php/8.2/php.ini-production $phpini
     fi
-    # 2023-10-17 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+    # 2023-10-17 Dmitrii Fediuk https://github.com/dmitrii-fediuk
     # 1) «ucfr: Attempt from package php8.2-fpm to take /etc/php/8.2/common/php.ini away from package php8.2-cli»:
     # https://github.com/dmitrii-fediuk/5.9.188.84/issues/52
     # 2) "How did I fix

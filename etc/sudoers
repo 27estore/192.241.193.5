@@ -1,4 +1,4 @@
-# 2024-07-19 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-19 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # "Refactor `/etc/sudoers`": https://github.com/27estore/192.241.193.5/issues/23
 Defaults	env_reset
 Defaults	mail_badpass
@@ -8,6 +8,6 @@ root	ALL=(ALL:ALL) ALL
 %admin ALL=(ALL) ALL
 %sudo	ALL=(ALL:ALL) ALL
 @includedir /etc/sudoers.d
-# 2024-07-19 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-19 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # "Setup the `www-data` account": https://github.com/27estore/192.241.193.5/issues/22
 www-data ALL=(ALL) NOPASSWD: ALL

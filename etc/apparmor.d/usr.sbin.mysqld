@@ -69,7 +69,7 @@
   /var/lib/mysql-keyring/** rwk,
 
 # Allow log file access
-# 2024-06-16 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-06-16 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # 1.1) "MySQL fails to start with a custom `log_error` location":
 # https://github.com/thehcginstitute-com/167.71.186.128/issues/20
 # 1.2) "Why does MySQL fail to start with a custom `log_error` location?": https://df.tips/t/2223
@@ -77,7 +77,7 @@
 # https://github.com/thehcginstitute-com/167.71.186.128/issues/17
 # 2.2) "How did I fix «Status: "Server shutdown complete"» / «Error: 9 (Bad file descriptor)»
 # in MySQL for a custom `log_error` location?": https://df.tips/t/2222
-# 2024-07-12 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-12 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # "Adjust AppArmor to MySQL": https://github.com/27estore/192.241.193.5/issues/9
   /var/log/_mage2pro/ r,
   /var/log/_mage2pro/** rw,

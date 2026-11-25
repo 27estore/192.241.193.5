@@ -1,6 +1,6 @@
 LABEL=cloudimg-rootfs	/	 ext4	defaults	0 0
 LABEL=UEFI	/boot/efi	vfat	defaults	0 0
-# 2024-07-29 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2024-07-29 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # 1.1) "Setup memory paging to a swap file": https://github.com/27estore/192.241.193.5/issues/28
 # 1.2) "How do I setup a swap file in Linux?": https://df.tips/t/1087
 # 2.1) «elasticsearch.service: Failed with result 'oom-kill'» / «A process of this unit has been killed by the OOM killer»:
